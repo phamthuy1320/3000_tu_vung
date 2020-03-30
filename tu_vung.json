@@ -1,4 +1,11 @@
 {
-  "name": "RestaurantApp",
-  "displayName": "RestaurantApp"
+  "tu_vung": [
+    {
+      "tuMoi": "I",
+      "nghiaRutGon": "Tôi",
+      "nghiaDayDu": "Tôi",
+      "phienAm": "/ai/",
+      "tuLoai": "N"
+    }
+  ]
 }
